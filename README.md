@@ -27,9 +27,7 @@ Since this blog lives in a DevOps-focused repository, here is how the magic happ
 | Truffle Mushroom Risotto | Main Course | Medium |
 | 5-Minute Matcha Latte | Drinks | Easy |
 | Sourdough Starter 101 | Baking | Hard |
-
 ---
-
 ## 🤝 Contributing
 Want to add a recipe or improve the site?
 1. **Fork** the repository.
