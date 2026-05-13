@@ -3,7 +3,6 @@
 Welcome to **The Gourmet Script**, where culinary art meets digital precision. This blog is a collection of my favorite recipes, kitchen experiments, and food photography journeys.
 
 ---
-
 ## 🌟 Features
 * **Global Cuisines:** From street food to fine dining.
 * **Quick Bites:** Recipes that take under 20 minutes.
